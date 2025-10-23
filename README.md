@@ -1,4 +1,4 @@
-## Hey there, I'm Camila Lazinski 👋
+## Hey there, I'm Camila 👋
 
 🎯 I work as a **Data Engineer** focused on building and automating ETL pipelines, maintaining data quality, and developing data warehouses.  
 
