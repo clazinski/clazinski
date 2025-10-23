@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hey there, I'm Camila 👋
 
-<!--
-**clazinski/clazinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Data Engineer** focused on building and automating ETL pipelines, maintaining data quality, and developing data warehouses.  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tech Stack
+💻 **Languages:** Python, Node.js, SQL  
+☁️ **Cloud:** AWS, GCP  
+⚙️ **Orchestration:** Airflow  
+📊 **Data Warehouse / ETL:** Redshift, Glue, Athena, dbt, SparkSQL  
+🧠 **Others:** Git, APIs, automations, machine learning pipelines  
+
+---
+
+### 📫 Get in touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-lazinski-6b4a1018a/)  
+📧 **Email:** camilalazinski@gmail.com
+
+---
+
+✨ _“Data only tells great stories when it’s well cared for.”_
