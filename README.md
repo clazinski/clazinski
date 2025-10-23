@@ -1,6 +1,6 @@
 ## Hey there, I'm Camila 👋
 
-🎯 **Data Engineer** focused on building and automating ETL pipelines, maintaining data quality, and developing data warehouses.  
+🎯 I work as a **Data Engineer** focused on building and automating ETL pipelines, maintaining data quality, and developing data warehouses.  
 
 
 ---
